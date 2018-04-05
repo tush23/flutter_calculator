@@ -1,1 +1,1 @@
-# flutter_calculator is just basic calculator app with basic opretion sum,mul,div and sub.
+# flutter_calculator is just basic calculator app with basic operations sum,mul,div and sub.
